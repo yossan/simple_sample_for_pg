@@ -1,0 +1,6 @@
+PGHOST='localhost'
+PGUSER='yossan'
+PGDATABASE='testdb'
+PGPASSWORD='ultraman'
+PGPORT=5432
+
