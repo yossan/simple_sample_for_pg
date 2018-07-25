@@ -1,0 +1,21 @@
+The sample to create and drop table with pg.
+
+## Useged packages
+
+* pg
+* dotenv
+
+## Prerequisite
+
+* Install and launch PostgreSQL
+* Make `.env` file and place it on the pacakge root directory.
+
+## .env sample
+
+```.env
+PGHOST='localhost'
+PGUSER='yossan'
+PGDATABASE='testdb'
+PGPASSWORD='ultraman'
+PGPORT=5432
+```
